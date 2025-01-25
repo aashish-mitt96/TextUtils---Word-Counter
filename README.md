@@ -13,3 +13,8 @@ TextUtils is a powerful React application designed to perform various text-relat
 - **React.js**: Frontend framework for building a dynamic user interface.  
 - **Bootstrap**: For responsive and clean UI design.  
 - **CSS**: Custom styling for a polished look and feel
+
+# My App
+
+## Preview
+![App Preview](./src/preview.png)
